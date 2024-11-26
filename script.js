@@ -20,7 +20,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     // Mostrar el mensaje específico
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = 'Anh hông ngờ tới luôn đó, iu em lắm luônnn:3';
+    document.getElementById('messageContainer').innerHTML = 'Chúc em sinh nhật vui vẻ';
 
     // Mostrar otro gif después de 3 segundos
     setTimeout(function() {
@@ -49,7 +49,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             document.getElementById('sadGifContainer').style.display = 'block';
 
             // Modificar el botón "No"
-            document.getElementById('noBtn').innerHTML = 'Cho anh cơ hội đii mầ';
+            document.getElementById('noBtn').innerHTML = 'yêu em nhiều';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
           
             
@@ -67,7 +67,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         case 1:
             // Segunda vez haciendo clic en "No"
 
-            document.getElementById('noBtn').innerHTML = 'Anh hứa sẽ iuu bé suốt đời đó';
+            document.getElementById('noBtn').innerHTML = 'Anh hứa sẽ iuu em suốt đời đó';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
             document.getElementById('sadGifContainer').style.display = 'none';
             document.getElementById('sadGifContainer2').style.display = 'block';
@@ -96,7 +96,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
         case 3:
            
-            document.getElementById('noBtn').innerHTML = 'Vậy nên choo anh 1 cơ hội nhé!';
+            document.getElementById('noBtn').innerHTML = 'Thương Huyền lắm!';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
@@ -107,7 +107,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
         case 4:
            
-            document.getElementById('noBtn').innerHTML = 'Thật sự em không đồng ý saooo?';
+            document.getElementById('noBtn').innerHTML = 'Thật sự em không thấy anh đẹp sao?';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
@@ -118,7 +118,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
         case 5:
            
-            document.getElementById('noBtn').innerHTML = 'Em muốn bỏ rơi chàng trai này ư';
+            document.getElementById('noBtn').innerHTML = 'Thương Huyền lắm';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
@@ -162,7 +162,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
 
         case 9:
            
-            document.getElementById('noBtn').innerHTML = 'Em ơiii , cho anh cơ hội diiii';
+            document.getElementById('noBtn').innerHTML = 'Em ơiii ';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
@@ -174,7 +174,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
 
         case 10:
            
-            document.getElementById('noBtn').innerHTML = 'hãy chấp nhận tình iuu của anhh nhóo';
+            document.getElementById('noBtn').innerHTML = 'Huyền điên';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
          
@@ -208,7 +208,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
         case 13:
            
-            document.getElementById('noBtn').innerHTML = 'Em đồng ý nhóooooo';
+            document.getElementById('noBtn').innerHTML = 'Huyền mát';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             document.getElementById('siBtn').style.fontSize = '240px';
